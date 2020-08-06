@@ -1,0 +1,7 @@
+CLOSE Escape
+C C
+A A
+D D
+LSHIFT LShift
+LCTRL LControl
+SPACE Space
